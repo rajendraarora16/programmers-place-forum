@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=54b1025b5973ca9be60001e6
+org.jboss.tools.openshift.ApplicationName=code
+org.jboss.tools.openshift.Connection=https\://rajendraarora16%40yahoo.com@
+org.jboss.tools.openshift.DeployFolder=webapps
+org.jboss.tools.openshift.Domain=programmersplace
+org.jboss.tools.openshift.RemoteName=origin
